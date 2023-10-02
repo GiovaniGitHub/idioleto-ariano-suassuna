@@ -109,7 +109,7 @@ class Idioleto:
                     }
 
                 dict_result[elem.get("titulo")] = words_most_common
-        with open("count_of_terms.json", "w", encoding="utf-8") as outfile:
+        with open("temp/count_of_terms.json", "w", encoding="utf-8") as outfile:
             json.dump(dict_result, outfile, ensure_ascii=False)
 
     def similarity(self, type_data="processed"):
@@ -152,7 +152,7 @@ class Idioleto:
                     "Flesch-Kincaid Grade": flesch_kincaid_grade(text),
                     "Coleman-Liau Index": coleman_liau_index(text),
                 }
-        with open("reability_metrics.json", "w", encoding="utf-8") as outfile:
+        with open("temp/reability_metrics.json", "w", encoding="utf-8") as outfile:
             json.dump(readability_scores, outfile, ensure_ascii=False)
 
         return readability_scores
@@ -173,7 +173,7 @@ class Idioleto:
                     "Number of Unique Words": num_unique_words,
                     "Lexical Diversity": lexical_diversity,
                 }
-        with open("lexical_diversity.json", "w", encoding="utf-8") as outfile:
+        with open("temp/lexical_diversity.json", "w", encoding="utf-8") as outfile:
             json.dump(lexical_score, outfile, ensure_ascii=False)
 
         return lexical_score
@@ -233,7 +233,7 @@ class Idioleto:
                     )
                 dict_data[file_name] = most_common_sequences
             with open(
-                f"count_sequence_{length_sequence}.json", "w", encoding="utf-8"
+                f"temp/count_sequence_{length_sequence}.json", "w", encoding="utf-8"
             ) as outfile:
                 json.dump(dict_data, outfile, ensure_ascii=False)
 
@@ -289,4 +289,4 @@ if __name__ == "__main__":
     # idioleto.lda_process(type_data=None)
     # idioleto.similarity(type_data="processed")
     # idioleto.lda_tags(type_data="processed")
-    # idioleto.count_sequences()
+    idioleto.count_sequences()
