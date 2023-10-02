@@ -1,0 +1,251 @@
+[
+    {
+        "arquivo": "A História de Amor de Fernando e Isaura.pdf",
+        "titulo": "A História de Amor de Fernando e Isaura",
+        "id": "1",
+        "tipo": "Teatro",
+        "ano": "1956",
+        "first_page": "18",
+        "end_page": "105"
+    },
+    {
+        "arquivo": "A Pena e a Lei.pdf",
+        "titulo": "A Pena e a Lei",
+        "id": "2",
+        "tipo": "Teatro",
+        "ano": "1959",
+        "first_page": "6",
+        "end_page": "129"
+    },
+    {
+        "arquivo": "Auto da Compadecida.pdf",
+        "titulo": "Auto da Compadecida",
+        "id": "3",
+        "tipo": "Teatro",
+        "ano": "1955",
+        "first_page": "2",
+        "end_page": "158"
+    },
+    {
+        "arquivo": "Dom Pantero.pdf",
+        "titulo": "Dom Pantero",
+        "id": "4",
+        "tipo": "Romance",
+        "ano": "2017",
+        "first_page": "11",
+        "end_page": "475"
+    },
+    {
+        "arquivo": "Farsa da Boa Preguiça.pdf",
+        "titulo": "Farsa da Boa Preguiça",
+        "id": "5",
+        "tipo": "Teatro",
+        "ano": "1960",
+        "first_page": "15",
+        "end_page": "308"
+    },
+    {
+        "arquivo": "Os Homens de Barro.pdf",
+        "titulo": "Os Homens de Barro",
+        "id": "6",
+        "tipo": "Teatro",
+        "ano": "1949",
+        "first_page": "14",
+        "end_page": "114"
+    },
+    {
+        "arquivo": "Romance da Pedra do Reino.pdf",
+        "titulo": "Romance da Pedra do Reino",
+        "id": "7",
+        "tipo": "Romance",
+        "ano": "1971",
+        "first_page": "25",
+        "end_page": "674"
+    },
+    {
+        "arquivo": "O Rei Degolado ao Sol da Onça Caetana.pdf",
+        "titulo": "O Rei Degolado ao Sol da Onça Caetana",
+        "id": "8",
+        "tipo": "Romance",
+        "ano": "1977",
+        "first_page": "19",
+        "end_page": "80"
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "9",
+        "tipo": "Teatro",
+        "titulo": "O Casamento Suspeitoso",
+        "ano": "1957",
+        "first_page": "166",
+        "end_page": "256"
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "10",
+        "tipo": "Teatro",
+        "titulo": "O Santo e a Porca",
+        "first_page": "266",
+        "ano": 1957,
+        "end_page": "371"
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "11",
+        "tipo": "Teatro",
+        "titulo": "As Conchambranças de Quaderna",
+        "ano": 1987,
+        "first_page": "721",
+        "end_page": "818"
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "12",
+        "tipo": "Teatro",
+        "titulo": "A Mulher Vestida de Sol",
+        "first_page": "832",
+        "ano": 1947,
+        "end_page": "963"
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "13",
+        "tipo": "Teatro",
+        "titulo": "O Desertor de Princesa",
+        "first_page": "966",
+        "ano": 1948,
+        "end_page": "1020"
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "14",
+        "tipo": "Teatro",
+        "ano": 1950,
+        "titulo": "Auto de Joao da Cruz",
+        "first_page": 1108,
+        "end_page": 1228
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "15",
+        "tipo": "Teatro",
+        "titulo": "O Arco Desolado",
+        "first_page": 1234,
+        "ano": 1952,
+        "end_page": 1368
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "16",
+        "tipo": "Teatro",
+        "titulo": "O Castigo da Soberba",
+        "first_page": 1383,
+        "ano": 1953,
+        "end_page": 1396
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "17",
+        "tipo": "Teatro",
+        "titulo": "Um Natal Perfeito",
+        "first_page": 1400,
+        "ano": 1957,
+        "end_page": 1405
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "18",
+        "tipo": "Teatro",
+        "titulo": "O Seguro",
+        "first_page": 1407,
+        "ano": 1957,
+        "end_page": 1425
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "19",
+        "tipo": "Teatro",
+        "titulo": "O Homem da Vaca e o Poder da Fortuna",
+        "first_page": 1428,
+        "ano": 1958,
+        "end_page": 1453
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "20",
+        "tipo": "Teatro",
+        "titulo": "O Marido Domado",
+        "ano": 1961,
+        "first_page": 1456,
+        "end_page": 1467
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "21",
+        "tipo": "Teatro",
+        "titulo": "Torturas de um Coracao",
+        "first_page": 1470,
+        "ano": 1950,
+        "end_page": 1517
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "22",
+        "tipo": "Teatro",
+        "titulo": "O Rico Avarento",
+        "first_page": 1519,
+        "ano": 1954,
+        "end_page": 1536
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "23",
+        "tipo": "Teatro",
+        "titulo": "A Caseira e a Catarina",
+        "first_page": 1539,
+        "ano": 1962,
+        "end_page": 1615
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "24",
+        "tipo": "Teatro",
+        "titulo": "A História do Amor de Romeu e Julieta",
+        "first_page": 1621,
+        "ano": 1996,
+        "end_page": 1661
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "25",
+        "tipo": "Teatro",
+        "titulo": "Antígona: de Sófocles",
+        "first_page": 1675,
+        "end_page": 1723
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "26",
+        "tipo": "Teatro",
+        "titulo": "A Panela, De Plauto",
+        "first_page": 1727,
+        "end_page": 1765
+    },
+    {
+        "arquivo": "Teatro Completo.pdf",
+        "id": "27",
+        "tipo": "Teatro",
+        "titulo": "As Trapacas de Escapim, de Moliere",
+        "first_page": 1770,
+        "end_page": 1842
+    },
+    {
+        "arquivo": "O Rei Degolado ao Sol da Onça Caetana.pdf",
+        "id": "28",
+        "tipo": "Romance",
+        "titulo": "O Rei Degolado ao Sol da Onça Caetana",
+        "first_page": 19,
+        "ano": 1956,
+        "end_page": 81
+    }
+]
